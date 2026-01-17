@@ -18,8 +18,8 @@ This repository tracks my daily progress across three core subjects: Theory of C
 ## 📚 Study Checklists
 
 ### 1. Theory of Computation (TOC)
-- [x] Day 1
-- [x] Day 2
+- [x] Day 1 - introduction, alphabet, string, language
+- [x] Day 2 - finite automata, identification of DFA
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
@@ -53,12 +53,12 @@ This repository tracks my daily progress across three core subjects: Theory of C
 - [ ] Day 33
 
 ### 2. Computer Networks (CN)
-- [x] Day 1
-- [x] Day 2
-- [x] Day 3
-- [x] Day 4
-- [x] Day 5
-- [x] Day 6
+- [x] Day 1 - introduction to IP
+- [x] Day 2 - IP and its class
+- [x] Day 3 - Casting and its types
+- [x] Day 4 - LBA, DBA
+- [x] Day 5 - Subneting
+- [x] Day 6 - Subnet Mask, Routing table
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
@@ -100,7 +100,7 @@ This repository tracks my daily progress across three core subjects: Theory of C
 - [ ] Day 45
 
 ### 3. Digital Logic (DL)
-- [x] Day 1
+- [x] Day 1 - Basic Logic Gates (part 1)
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
